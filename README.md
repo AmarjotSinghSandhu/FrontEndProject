@@ -16,7 +16,7 @@ The website consists of several sections:
 
 Here is a screenshot of the website:
 
-![Full Website](.PortfolioWebsitePrev/Screenshot My Portfolio.png)
+![Full Website](./PortfolioWebsitePrev/Screenshot%20My%20Portfolio.png)
 
 ## Technologies Used
 
