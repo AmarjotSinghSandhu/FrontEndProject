@@ -1,8 +1,14 @@
-# Portfolio Website
+# Front End Project
 
 This repository contains the code for my portfolio website. It showcases my skills, projects, and contact information.
 
-![Certificate](./Assets/SoloLearnHTMLCertifficate.jpg)
+## Table of Contents
+1. Overview
+2. Certificate
+3. Screenshots
+4. Technologies Used
+5. How to Run
+6. Acknowledgments
 
 ## Overview
 
@@ -13,6 +19,9 @@ The website consists of several sections:
 - **Experience**: Highlights my technical skills and proficiency in various programming languages.
 - **Projects**: Showcases some of my recent projects along with links to their GitHub repositories.
 - **Contact**: Provides contact information to get in touch with me.
+
+## Certificate
+![Certificate](./Assets/SoloLearnHTMLCertifficate.jpg)
 
 ## Screenshots
 
