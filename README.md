@@ -2,6 +2,8 @@
 
 This repository contains the code for my portfolio website. It showcases my skills, projects, and contact information.
 
+![Full Website](./Assets/SoloLearn-HTML-Certificate.jpg)
+
 ## Overview
 
 The website consists of several sections:
