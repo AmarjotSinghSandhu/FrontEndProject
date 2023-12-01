@@ -2,7 +2,7 @@
 
 This repository contains the code for my portfolio website. It showcases my skills, projects, and contact information.
 
-![Full Website](./Assets/SoloLearn-HTML-Certificate.jpg)
+![Certificate](./Assets/SoloLearnHTMLCertifficate.jpg)
 
 ## Overview
 
